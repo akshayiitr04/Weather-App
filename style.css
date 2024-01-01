@@ -1,3 +1,9 @@
-body{
-  background: #c5b793;
+.col-md {
+  flex: 1 0 0%;
+  display: table;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
